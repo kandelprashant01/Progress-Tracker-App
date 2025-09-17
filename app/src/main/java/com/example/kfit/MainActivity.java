@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.example.aurafit;
+=======
+package com.example.kfit;
+>>>>>>> 462d21dd12505b70f8220605ea534d7c18240e2a
 
 import android.os.Bundle;
 

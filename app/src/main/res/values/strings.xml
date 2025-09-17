@@ -1,3 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">AuraFit</string>
 </resources>
+=======
+    <string name="app_name">K FIT</string>
+</resources>
+>>>>>>> 462d21dd12505b70f8220605ea534d7c18240e2a
